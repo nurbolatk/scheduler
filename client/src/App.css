@@ -23,9 +23,11 @@
 }
 
 .coloredd {
-  padding: 4px;
+  padding: 5px;
   color: white;
   background-color: blueviolet;
+  font-family: 'Roboto Condensed';
+  line-height: normal;
 }
 
 .cbordered {

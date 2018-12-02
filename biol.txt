@@ -1,9 +1,9 @@
-BIOL 4911RGraduation Project 24.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM016
-Zhanat
-Muminova,
-yingqiu Xie
-7.527 -
-cap:34S)
+BIOL 4801L
+Molecular
+Immunology
+3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM2148Timo Burster
+7.210 -
+cap:55leCr(US)Cr(ECTS)
 Start
 Date
 End DateDaysTimeEnrCapFacultyRoom

@@ -52,7 +52,6 @@ class Place extends Component {
             let course = temp.find(course => {
               return course.start === i
             })
-            console.log(course)
             if(course && i === course.start){
               place.push(course.course)
               i+=course.height-1
