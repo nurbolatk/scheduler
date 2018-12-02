@@ -1,0 +1,1843 @@
+
+
+School of Science and Technology, Undergraduate, Spring 2019
+2018-11-18 22:17:28
+Course AbbrS/TCourse TitleCr(US)Cr(ECTS)
+Start
+Date
+End DateDaysTimeEnrCapFacultyRoom
+BIOL 1012L
+Biology for
+non-Science majors
+3.0608-JAN-1919-APR-19M W F04:00 PM-04:50 PM4848
+Zhanat
+Muminova
+7.105 -
+cap:80
+BIOL 1011L
+Biology for
+non-Science majors
+3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM4848
+Anara
+Zhumadilova
+7E.529
+-
+cap:104
+BIOL 1101BLb
+Modern Biology I
+with Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM024
+Ferdinand
+Molnar
+9.228 -
+cap:40
+BIOL 1101L
+Modern Biology I
+with Lab
+4.0808-JAN-1919-APR-19T R12:00 PM-01:15 PM024
+Ferdinand
+Molnar
+7.427 -
+cap:26
+BIOL 1201BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19M12:00 PM-02:50 PM1924
+Zhalgas
+Serimbetov
+9.228 -
+cap:40
+BIOL 1203BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM2424
+Zarina
+Sautbayeva
+9.228 -
+cap:40
+BIOL 1204BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424
+Zarina
+Sautbayeva
+9.228 -
+cap:40
+BIOL 1205BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM1924
+Zhalgas
+Serimbetov
+9.228 -
+cap:40
+BIOL 1202BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424
+Zhalgas
+Serimbetov
+7.407 -
+cap:20
+BIOL 1201L
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM7272Anna Andreeva
+7E.329
+-
+cap:104
+BIOL 1202L
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19T R04:30 PM-05:45 PM3872Anna Andreeva
+7E.429
+-
+cap:104
+BIOL 2311BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM2424Tursonjan Tokay
+7E.217
+- cap:24
+BIOL 2312BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM2424TBA TBA
+7E.217
+- cap:24
+BIOL 2313BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424Tursonjan Tokay
+7E.217
+- cap:24
+
+BIOL 2314BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM2424TBA TBA
+7E.217
+- cap:24
+BIOL 2311L
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM9696Tursonjan Tokay
+7E.529
+-
+cap:104
+BIOL 3013Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM1524
+Assem
+Duisembekova
+9.228 -
+cap:40
+BIOL 3011L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM2424
+Gonzalo Hap
+Hortelano
+7.507 -
+cap:60
+BIOL 3012L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM2424
+Gonzalo Hap
+Hortelano
+7.507 -
+cap:60
+BIOL 3013L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R12:00 PM-01:15 PM2424
+Jeanette Kunz
+Halder
+7.507 -
+cap:60
+BIOL 3011Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM2424
+Assem
+Duisembekova
+7.407 -
+cap:20
+BIOL 3012Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM2424
+Aigerim
+Soltabayeva
+7.407 -
+cap:20
+BIOL 3014Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM924
+Aigerim
+Soltabayeva
+7.407 -
+cap:20
+BIOL 3411LBiochemistry I3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM9696Timo Burster
+7E.529
+-
+cap:104
+BIOL 3411RBiochemistry I3.0608-JAN-1919-APR-19F03:00 PM-03:50 PM9696Timo Burster
+7E.529
+-
+cap:104
+BIOL 341L1LbBiochemistry I Lab1.0208-JAN-1919-APR-19W12:00 PM-02:50 PM2424yingqiu Xie
+7.407 -
+cap:20
+BIOL 3702LGenetics3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM3636
+Gonzalo Hap
+Hortelano
+7.246 -
+cap:55
+BIOL 3701LGenetics3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM3636yingqiu Xie
+7E.529
+-
+cap:104
+BIOL 4201LBioethics3.0608-JAN-1919-APR-19T R04:30 PM-05:45 PM9396
+TBA TBA, Anara
+Zhumadilova
+7E.529
+-
+cap:104
+
+BIOL 4301L
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19T R01:30 PM-02:45 PM4648
+Zhanat
+Muminova
+7.105 -
+cap:80
+BIOL 4301Lb
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19M01:00 PM-02:50 PM2224
+Zhanat
+Muminova
+7E.217
+- cap:24
+BIOL 4302Lb
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19W01:00 PM-02:50 PM2424
+Zhanat
+Muminova
+7E.217
+- cap:24
+BIOL 4401LNeuroscience3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM1648Olena Filchakova
+7.507 -
+cap:60
+BIOL 4501LFood Microbiology3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM4848Damira Kanayeva
+7.105 -
+cap:80
+BIOL 450L1Lb
+Food Microbiology
+Lab
+1.0208-JAN-1919-APR-19W01:00 PM-03:50 PM1320
+Damira Kanayeva,
+Assem
+Duisembekova
+7.410 -
+cap:15
+BIOL 4561S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM2424
+Jeanette Kunz
+Halder
+7E.229
+- cap:24
+BIOL 4562S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM1024Otilia Nuta
+7E.229
+- cap:24
+BIOL 4563S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM2124Otilia Nuta
+7E.229
+- cap:24
+BIOL 4711L
+Light and Electron
+microscopy concepts
+and techniques
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM1524Ivan Vorobyev
+7.527 -
+cap:34
+BIOL 471L1Lb
+Light and Electron
+Microscopy
+Concepts and
+Techniques-Lab
+1.0208-JAN-1919-APR-19R03:00 PM-05:50 PM512
+Zarina
+Sautbayeva
+7.318 -
+cap:2
+BIOL 4801L
+Molecular
+Immunology
+3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM2148Timo Burster
+7.210 -
+cap:55
+BIOL 4911RGraduation Project 24.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM016
+Zhanat
+Muminova,
+yingqiu Xie
+7.527 -
+cap:34
+BIOL 4921Wsh
+Directed study in
+Biology
+3.0608-JAN-1919-APR-19S12:00 PM-02:50 PM1324Damira Kanayeva
+7.527 -
+cap:34
+
+CHEM 0921L
+Survey of
+Environmental
+Sciences for
+Non-Science Majors
+3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM9696
+Abdulla Azzam
+Mahboob
+7E.529
+-
+cap:104
+CHEM 1011LGeneral Chemistry I3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM048
+Darkhan
+Utepbergenov
+7E.529
+-
+cap:104
+CHEM 101L1ChLb
+General Chemistry I
+lab
+1.0208-JAN-1919-APR-19T03:00 PM-05:50 PM024TBA TBA
+9.210 -
+cap:40
+CHEM 1021LGeneral Chemistry II3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM4872Mannix Balanay
+7E.529
+-
+cap:104
+CHEM 1022LGeneral Chemistry II3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM7272Mannix Balanay
+7E.529
+-
+cap:104
+CHEM 102L1ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19M12:00 PM-02:50 PM1924
+Roza
+Demeisinova
+9.210 -
+cap:40
+CHEM 102L2ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19M03:00 PM-05:50 PM1724
+Roza
+Demeisinova
+9.210 -
+cap:40
+CHEM 102L3ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19W12:00 PM-02:50 PM2124
+Roza
+Demeisinova
+9.210 -
+cap:40
+CHEM 102L4ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19W03:00 PM-05:50 PM524
+Roza
+Demeisinova
+9.210 -
+cap:40
+CHEM 102L5ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19F12:00 PM-02:50 PM2424Timur Atabaev
+9.210 -
+cap:40
+CHEM 102L6ChLb
+General Chemistry II
+lab
+1.0208-JAN-1919-APR-19F03:00 PM-05:50 PM2424Anara Molkenova
+9.210 -
+cap:40
+CHEM 2111LOrganic Chemistry I3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM048
+Vsevolod
+Peshkov
+7E.529
+-
+cap:104
+CHEM 211L1Lb
+Organic Chemistry I
+Lab
+2.0408-JAN-1919-APR-19R09:00 AM-01:50 PM024
+Roza
+Demeisinova
+7.307 -
+cap:15
+CHEM 211L2Lb
+Organic Chemistry I
+Lab
+2.0408-JAN-1919-APR-19R02:00 PM-06:50 PM024Saule Issayeva
+7.307 -
+cap:15
+CHEM 211L3Lb
+Organic Chemistry I
+Lab
+2.0408-JAN-1919-APR-19S09:00 AM-01:50 PM024TBA TBA
+7.307 -
+cap:15
+
+CHEM 2121LOrganic Chemistry II3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM2372
+Salimgerey
+Adilov
+7E.529
+-
+cap:104
+CHEM 212L1ChLb
+Organic Chemistry II
+Lab
+2.0408-JAN-1919-APR-19M02:00 PM-06:50 PM324Saule Issayeva
+7.307 -
+cap:15
+CHEM 212L2ChLb
+Organic Chemistry II
+Lab
+2.0408-JAN-1919-APR-19T02:00 PM-06:50 PM524
+Salimgerey
+Adilov
+7.307 -
+cap:15
+CHEM 212L3ChLb
+Organic Chemistry II
+Lab
+2.0408-JAN-1919-APR-19W02:00 PM-06:50 PM1924Anara Molkenova
+7.307 -
+cap:15
+CHEM 212L4ChLb
+Organic Chemistry II
+Lab
+2.0408-JAN-1919-APR-19F02:00 PM-06:50 PM124Saule Issayeva
+7.307 -
+cap:15
+CHEM 3201L
+Instrumental
+Analysis with Labs
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM2324
+Rostislav
+Bukasov
+7.527 -
+cap:34
+CHEM 3201ChLb
+Instrumental
+Analysis with Labs
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM1112
+Rostislav
+Bukasov
+7.310 -
+cap:15
+CHEM 3202ChLb
+Instrumental
+Analysis with Labs
+4.0808-JAN-1919-APR-19F03:00 PM-05:50 PM1212
+Rostislav
+Bukasov
+7.310 -
+cap:15
+CHEM 3321L
+Physical Chemistry
+II
+3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM2540Haiyan Fan
+7E.220
+- cap:56
+CHEM 332L1ChLb
+Physical Chemistry
+II Lab
+1.0208-JAN-1919-APR-19T04:00 PM-06:50 PM2424Haiyan Fan
+7.310 -
+cap:15
+CHEM 3801LResearch Methods3.0608-JAN-1919-APR-19M03:00 PM-05:50 PM2424Andrey Khalimon
+7E.229
+- cap:24
+CHEM 4111L
+Advanced Organic
+Chemistry I
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM1316
+Vsevolod
+Peshkov
+7.427 -
+cap:26
+CHEM 4421L
+Biochemistry II with
+Lab-Metabolic
+Biochemistry
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM824
+Abdulla Azzam
+Mahboob
+7.527 -
+cap:34
+CHEM 4511L
+Applied
+Homogenous
+Catalysis
+3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM1116Andrey Khalimon
+7.527 -
+cap:34
+CHEM 4901LNanochemistry3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM1416Timur Atabaev
+7.527 -
+cap:34
+CHEM 4911L
+Special Topics in
+Chemistry
+3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM316
+Darkhan
+Utepbergenov
+7.527 -
+cap:34
+
+CSCI 1011L
+Introduction to
+Computational
+Sciences
+3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM2424Mona Rizvi
+7E.217
+- cap:24
+CSCI 1012L
+Introduction to
+Computational
+Sciences
+3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM2424Mona Rizvi
+7E.229
+- cap:24
+CSCI 1111L
+Web Programming
+& Problem Solving
+3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM2424
+Askar
+Boranbayev
+7E.217
+- cap:24
+CSCI 1112L
+Web Programming
+& Problem Solving
+3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM2424Mark Sterling
+7E.217
+- cap:24
+CSCI 1511CLb
+Programming for
+Scientists and
+Engineers
+4.0808-JAN-1919-APR-19F12:00 PM-01:50 PM524Ainur Rysbekova
+7.522 -
+cap:37
+CSCI 1512CLb
+Programming for
+Scientists and
+Engineers
+4.0808-JAN-1919-APR-19F02:00 PM-03:50 PM824Ainur Rysbekova
+7.522 -
+cap:37
+CSCI 1513CLb
+Programming for
+Scientists and
+Engineers
+4.0808-JAN-1919-APR-19F04:00 PM-05:50 PM424Ainur Rysbekova
+7.522 -
+cap:37
+CSCI 1511L
+Programming for
+Scientists and
+Engineers
+4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM1772
+Antonio Cerone,
+Kok Seng Wong
+7E.429
+-
+cap:104
+CSCI 1521Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19M09:00 AM-10:50 AM2424
+Aigerim
+Yessenbayeva
+7.522 -
+cap:37
+CSCI 1522Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19M11:00 AM-12:50 PM2424
+Aigerim
+Yessenbayeva
+7.522 -
+cap:37
+CSCI 1523Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19M01:00 PM-02:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 1524Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19M03:00 PM-04:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 1525Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19T03:00 PM-04:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 1526Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19W09:00 AM-10:50 AM2424
+Aigerim
+Yessenbayeva
+7.522 -
+cap:37
+CSCI 1527Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19W11:00 AM-12:50 PM2424
+Aigerim
+Yessenbayeva
+7.522 -
+cap:37
+
+CSCI 1528Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19W01:00 PM-02:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 1529Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19W03:00 PM-04:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 15210Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19R03:00 PM-04:50 PM2424
+Nazgul
+Tazhigaliyeva
+7.522 -
+cap:37
+CSCI 15211Lb
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19F09:00 AM-10:50 AM2424
+Aigerim
+Yessenbayeva
+7.522 -
+cap:37
+CSCI 1521L
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM7896
+Jean Marie
+Guillaume
+Gerard de
+Nivelle
+7E.429
+-
+cap:104
+CSCI 1522L
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19T R12:00 PM-01:15 PM9696Ben Tyler
+7E.429
+-
+cap:104
+CSCI 1523L
+Performance and
+Data Structures
+4.0808-JAN-1919-APR-19T R01:30 PM-02:45 PM9096Sain Saginbekov
+7E.429
+-
+cap:104
+CSCI 2451L
+System Analysis and
+Design
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM2424
+Askar
+Boranbayev
+7.522 -
+cap:37
+CSCI 2701LAlgorithms3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM3796
+Sain Saginbekov,
+Muhammed
+Demirci
+7E.429
+-
+cap:104
+CSCI 2702LAlgorithms3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM4796
+Sain Saginbekov,
+Muhammed
+Demirci
+7E.429
+-
+cap:104
+CSCI 2721LFormal Languages3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM4496
+Ben Tyler, Jean
+Marie Guillaume
+Gerard de
+Nivelle
+7E.429
+-
+cap:104
+CSCI 2722LFormal Languages3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM3696
+Ben Tyler, Jean
+Marie Guillaume
+Gerard de
+Nivelle
+7E.429
+-
+cap:104
+
+CSCI 3071LResearch Methods3.0608-JAN-1919-APR-19M W F03:00 PM-03:50 PM7696
+Mona Rizvi,
+Martin Lukac,
+Nazgul
+Tazhigaliyeva,
+Siamac Fazli
+7E.429
+-
+cap:104
+CSCI 3251L
+Introduction to
+Parallel Systems and
+GPU Programming
+3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM2424Jurn Gyu Park
+7.422 -
+cap:35
+CSCI 3301LMobile Computing3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM2424Mark Sterling
+7.522 -
+cap:37
+CSCI 3321LOperating Systems3.0608-JAN-1919-APR-19M W F01:00 PM-01:50 PM328
+Mona Rizvi, Jurn
+Gyu Park
+7.422 -
+cap:35
+CSCI 4091LSenior Project II3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM024
+Martin Lukac,
+Aigerim
+Yessenbayeva,
+Adnan Yazici,
+Mao Bui, Kok
+Seng Wong
+7E.429
+-
+cap:104
+CSCI 4471L
+Machine Learning:
+Theory and Practice
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM2424Siamac Fazli
+7.522 -
+cap:37
+CSCI 4621L
+Open Source
+Software
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM2424Antonio Cerone
+7.422 -
+cap:35
+MATH 1611RCalculus I4.0808-JAN-1919-APR-19T09:00 AM-10:15 AM1448TBA TBA
+7.210 -
+cap:55
+MATH 1612RCalculus I4.0808-JAN-1919-APR-19T10:30 AM-11:45 AM4848TBA TBA
+7.210 -
+cap:55
+MATH 1613RCalculus I4.0808-JAN-1919-APR-19T12:00 PM-01:15 PM1248TBA TBA
+7.210 -
+cap:55
+MATH 1614RCalculus I4.0808-JAN-1919-APR-19R09:00 AM-10:15 AM648TBA TBA
+7.210 -
+cap:55
+MATH 1615RCalculus I4.0808-JAN-1919-APR-19R10:30 AM-11:45 AM2048TBA TBA
+7.210 -
+cap:55
+MATH 1616RCalculus I4.0808-JAN-1919-APR-19R12:00 PM-01:15 PM1348TBA TBA
+7.210 -
+cap:55
+MATH 1611LCalculus I4.0808-JAN-1919-APR-19M W F09:00 AM-09:50 AM2396
+Birzhan
+Akynkozhayev
+7E.222
+-
+cap:104
+
+MATH 1612LCalculus I4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM3096
+Zhanbota
+Myrzakul
+7E.222
+-
+cap:104
+MATH 1613LCalculus I4.0808-JAN-1919-APR-19M W F11:00 AM-11:50 AM6096
+Birzhan
+Akynkozhayev
+7E.222
+-
+cap:104
+MATH 1621RCalculus II4.0808-JAN-1919-APR-19M01:00 PM-01:50 PM4848TBA TBA
+7.210 -
+cap:55
+MATH 1622RCalculus II4.0808-JAN-1919-APR-19M02:00 PM-02:50 PM4848TBA TBA
+7.210 -
+cap:55
+MATH 1623RCalculus II4.0808-JAN-1919-APR-19M03:00 PM-03:50 PM4648TBA TBA
+7.210 -
+cap:55
+MATH 1624RCalculus II4.0808-JAN-1919-APR-19M04:00 PM-04:50 PM2648TBA TBA
+7.210 -
+cap:55
+MATH 1625RCalculus II4.0808-JAN-1919-APR-19T01:30 PM-02:45 PM4848TBA TBA
+7.210 -
+cap:55
+MATH 1626RCalculus II4.0808-JAN-1919-APR-19W01:00 PM-01:50 PM4848TBA TBA
+7.210 -
+cap:55
+MATH 1627RCalculus II4.0808-JAN-1919-APR-19W02:00 PM-02:50 PM4448TBA TBA
+7.210 -
+cap:55
+MATH 1628RCalculus II4.0808-JAN-1919-APR-19W03:00 PM-03:50 PM2548TBA TBA
+7.210 -
+cap:55
+MATH 1629RCalculus II4.0808-JAN-1919-APR-19W04:00 PM-04:50 PM2348TBA TBA
+7.210 -
+cap:55
+MATH 16210RCalculus II4.0808-JAN-1919-APR-19R01:30 PM-02:45 PM4748TBA TBA
+7.210 -
+cap:55
+MATH 16211RCalculus II4.0808-JAN-1919-APR-19F01:00 PM-01:50 PM4748TBA TBA
+7.210 -
+cap:55
+MATH 16212RCalculus II4.0808-JAN-1919-APR-19F02:00 PM-02:50 PM3748TBA TBA
+7.210 -
+cap:55
+MATH 16213RCalculus II4.0808-JAN-1919-APR-19F03:00 PM-03:50 PM2948TBA TBA
+7.210 -
+cap:55
+MATH 16214RCalculus II4.0808-JAN-1919-APR-19F04:00 PM-04:50 PM1748TBA TBA
+7.210 -
+cap:55
+
+MATH 1621LCalculus II4.0808-JAN-1919-APR-19M W F12:00 PM-12:50 PM8484
+Raushan
+Zhumanova
+7E.222
+-
+cap:104
+MATH 1622LCalculus II4.0808-JAN-1919-APR-19M W F01:00 PM-01:50 PM7884
+Bibinur
+Shupeyeva
+7E.222
+-
+cap:104
+MATH 1623LCalculus II4.0808-JAN-1919-APR-19M W F02:00 PM-02:50 PM8484
+Raushan
+Zhumanova
+7E.222
+-
+cap:104
+MATH 1624LCalculus II4.0808-JAN-1919-APR-19M W F03:00 PM-03:50 PM8484
+Durvudkhan
+Suragan
+7E.222
+-
+cap:104
+MATH 1625LCalculus II4.0808-JAN-1919-APR-19M W F04:00 PM-04:50 PM3584
+Anastasios
+Bountis
+7E.222
+-
+cap:104
+MATH 1626LCalculus II4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM8484
+Alejandro Javier
+Castro Castilla
+7E.222
+-
+cap:104
+MATH 1627LCalculus II4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM8484Yerlan Amanbek
+7E.222
+-
+cap:104
+MATH 2511L
+Discrete
+Mathematics
+3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM5072Francesco Sica
+7E.329
+-
+cap:104
+MATH 2631LCalculus III4.0808-JAN-1919-APR-19M W F11:00 AM-11:50 AM1748
+Daniel Oliveira
+Da Silva
+7.246 -
+cap:55
+MATH 2631RCalculus III4.0808-JAN-1919-APR-19W02:00 PM-02:50 PM848TBA TBA
+7.246 -
+cap:55
+MATH 2632LCalculus III4.0808-JAN-1919-APR-19M W F03:00 PM-03:50 PM048
+Bibinur
+Shupeyeva
+7.246 -
+cap:55
+MATH 2632RCalculus III4.0808-JAN-1919-APR-19W04:00 PM-04:50 PM948TBA TBA
+7.246 -
+cap:55
+MATH 2733L
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM1048Manat Mustafa
+7.246 -
+cap:55
+MATH 2733R
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19F02:00 PM-02:50 PM848TBA TBA
+7.246 -
+cap:55
+
+MATH 2731L
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19T R01:30 PM-02:45 PM648
+Zhibek
+Kadyrsizova
+7E.222
+-
+cap:104
+MATH 2731R
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19T04:30 PM-05:45 PM648TBA TBA
+7E.222
+-
+cap:104
+MATH 2732L
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM148
+Bibinur
+Shupeyeva
+7E.222
+-
+cap:104
+MATH 2732R
+Linear Algebra with
+Applications
+4.0808-JAN-1919-APR-19R04:30 PM-05:45 PM348TBA TBA
+7E.222
+-
+cap:104
+MATH 2741L
+Introduction to
+Differential
+Equations
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM2748
+Raushan
+Zhumanova
+7E.329
+-
+cap:104
+MATH 2742L
+Introduction to
+Differential
+Equations
+3.0608-JAN-1919-APR-19T R04:30 PM-05:45 PM748
+Ardak
+Kashkynbayev
+7E.329
+-
+cap:104
+MATH 3102L
+Applied Statistical
+Methods
+3.0608-JAN-1919-APR-19M W F01:00 PM-01:50 PM3048
+Zhanbota
+Myrzakul
+7.246 -
+cap:55
+MATH 3101L
+Applied Statistical
+Methods
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM3548
+Zhanbota
+Myrzakul
+7E.221
+- cap:56
+MATH 3211LProbability3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM4848
+Rustem
+Takhanov
+7.246 -
+cap:55
+MATH 3212LProbability3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM3348
+Birzhan
+Akynkozhayev
+7.246 -
+cap:55
+MATH 3221L
+Mathematical
+Statistics
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM2248
+Zhenisbek
+Assylbekov
+7.246 -
+cap:55
+MATH 3222L
+Mathematical
+Statistics
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM3348Mark Lawrence
+7.246 -
+cap:55
+MATH 3511L
+Numerical Methods
+with Applications
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM2548Yogi Erlangga
+7E.221
+- cap:56
+MATH 3611LReal Analysis I3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM4248
+Daniel Oliveira
+Da Silva
+7E.221
+- cap:56
+
+MATH 3711L
+Introduction to
+Mathematical
+Biology
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM1036
+Ardak
+Kashkynbayev
+7E.220
+- cap:56
+MATH 4021LAbstract Algebra I3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM2136Francesco Sica
+7.246 -
+cap:55
+MATH 4022LAbstract Algebra I3.0608-JAN-1919-APR-19T R04:30 PM-05:45 PM3636
+Zhibek
+Kadyrsizova
+7E.221
+- cap:56
+MATH 4071LGraph Theory3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM4848Manat Mustafa
+7E.221
+- cap:56
+MATH 4121L
+Nonlinear
+Optimization
+3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM1448Yogi Erlangga
+7E.221
+- cap:56
+MATH 4171LCryptography3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM1748Francesco Sica
+7E.221
+- cap:56
+MATH 4231L
+Actuarial
+Mathematics II
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM4848Dongming Wei
+7E.222
+-
+cap:104
+MATH 4491L
+Statistical
+Programming
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM1824
+Zhenisbek
+Assylbekov
+7.427 -
+cap:26
+MATH 4601LTopology3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM948
+Durvudkhan
+Suragan
+7E.221
+- cap:56
+MATH 4611LReal Analysis II3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM948Eunghyun Lee
+7E.221
+- cap:56
+MATH 4771L
+Applied Finite
+Element Methods
+3.0608-JAN-1919-APR-19M W F04:00 PM-04:50 PM3048
+Piotr Sebastian
+Skrzypacz
+7E.221
+- cap:56
+MATH 4801LComplex Analysis3.0608-JAN-1919-APR-19M W F03:00 PM-03:50 PM3048
+Anastasios
+Bountis
+7E.221
+- cap:56
+MATH 4821LFourier Analysis3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM4848
+Alejandro Javier
+Castro Castilla
+7E.221
+- cap:56
+MATH 4902L
+Special Topics in
+Mathematics
+3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM1636Mark Lawrence
+7E.220
+- cap:56
+MATH 4901L
+Special Topics in
+Mathematics
+3.0608-JAN-1919-APR-19M W F01:00 PM-01:50 PM4248Eunghyun Lee
+7E.221
+- cap:56
+MATH 4991LCapstone Project3.0608-JAN-1919-APR-19M03:00 PM-05:50 PM1212Dongming Wei
+7E.220
+- cap:56
+
+PHYS 1611PLb
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM230
+Thomas
+Oikonomou
+9.202 -
+cap:40
+PHYS 1612PLb
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM1030
+Thomas
+Oikonomou
+9.202 -
+cap:40
+PHYS 1613PLb
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM130
+Thomas
+Oikonomou
+9.202 -
+cap:40
+PHYS 1611R
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19F01:00 PM-01:50 PM730
+Askhat
+Jumabekov
+7.507 -
+cap:60
+PHYS 1612R
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19F03:00 PM-03:50 PM530
+Thomas
+Oikonomou
+7.507 -
+cap:60
+PHYS 1613R
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19F04:00 PM-04:50 PM130
+Askhat
+Jumabekov
+7.507 -
+cap:60
+PHYS 1611L
+Physics and
+Engineering I with
+Lab
+4.0808-JAN-1919-APR-19M W F11:00 AM-11:50 AM1390
+Jean-Jacques
+Zondy
+7E.329
+-
+cap:104
+PHYS 1621PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M12:00 PM-02:50 PM1030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1622PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM2530
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1623PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T09:00 AM-11:50 AM2930
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1624PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T12:00 PM-02:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1625PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+
+PHYS 1626PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1627PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1628PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R09:00 AM-11:50 AM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1629PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R12:00 PM-02:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16210PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16211PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM2530
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16212PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19F03:00 PM-05:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16213PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T06:00 PM-08:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16214PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W06:00 PM-08:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 16215PLb
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R06:00 PM-08:50 PM3030
+Thomas
+Oikonomou
+9.222 -
+cap:40
+PHYS 1621R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M09:00 AM-09:50 AM3030
+Alexander
+Tikhonov
+7.507 -
+cap:60
+PHYS 1622R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M01:00 PM-01:50 PM3030
+Anton
+Desyatnikov
+7.507 -
+cap:60
+
+PHYS 1623R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M03:00 PM-03:50 PM3030
+Aikaterini
+Mandilara
+7.507 -
+cap:60
+PHYS 1624R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M04:00 PM-04:50 PM3030
+Aikaterini
+Mandilara
+7.507 -
+cap:60
+PHYS 1625R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T01:30 PM-02:45 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 1626R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19T04:30 PM-05:45 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 1627R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W09:00 AM-09:50 AM3030TBA TBA
+7.507 -
+cap:60
+PHYS 1628R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W01:00 PM-01:50 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 1629R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W03:00 PM-03:50 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 16210R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R01:30 PM-02:45 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 16211R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19R04:30 PM-05:45 PM3030TBA TBA
+7.507 -
+cap:60
+PHYS 16212R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19F09:00 AM-09:50 AM3030TBA TBA
+7.507 -
+cap:60
+PHYS 16213R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M12:00 PM-12:50 PM1430TBA TBA
+7.507 -
+cap:60
+PHYS 16214R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19W12:00 PM-12:50 PM1930TBA TBA
+7.507 -
+cap:60
+
+PHYS 16215R
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19F12:00 PM-12:50 PM2630TBA TBA
+7.507 -
+cap:60
+PHYS 1621L
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M W F09:00 AM-09:50 AM9090
+Anton
+Desyatnikov
+7E.329
+-
+cap:104
+PHYS 1622L
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM9090
+Alexander
+Tikhonov
+7E.329
+-
+cap:104
+PHYS 1623L
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M W F12:00 PM-12:50 PM5990Dana Alina
+7E.329
+-
+cap:104
+PHYS 1624L
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M W F03:00 PM-03:50 PM9090
+Ernazar
+Abdikamalov
+7E.329
+-
+cap:104
+PHYS 1625L
+Physics and
+Engineering II with
+Lab
+4.0808-JAN-1919-APR-19M W F04:00 PM-04:50 PM9090
+Ernazar
+Abdikamalov
+7E.329
+-
+cap:104
+PHYS 2021L
+Introductory
+Astrophysics
+3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM120120
+Daniele
+Malafarina
+Blue
+Hall -
+cap:231
+PHYS 2221L
+Classical Mechanics
+II
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM1224Sergiy Bubin
+7.317 -
+cap:27
+PHYS 2221R
+Classical Mechanics
+II
+3.0608-JAN-1919-APR-19T04:30 PM-05:45 PM1224Sergiy Bubin
+7.527 -
+cap:34
+PHYS 2701CLb
+Computational
+Physics with
+Laboratory
+3.0608-JAN-1919-APR-19T12:00 PM-01:15 PM024
+Mikhail
+Denissenya
+7E.229
+- cap:24
+PHYS 2702CLb
+Computational
+Physics with
+Laboratory
+3.0608-JAN-1919-APR-19T04:30 PM-05:45 PM024
+Mikhail
+Denissenya
+7E.229
+- cap:24
+PHYS 2703CLb
+Computational
+Physics with
+Laboratory
+3.0608-JAN-1919-APR-19R12:00 PM-01:15 PM024
+Mikhail
+Denissenya
+7E.229
+- cap:24
+PHYS 2704CLb
+Computational
+Physics with
+Laboratory
+3.0608-JAN-1919-APR-19R04:30 PM-05:45 PM1224
+Mikhail
+Denissenya
+7E.229
+- cap:24
+
+PHYS 2701L
+Computational
+Physics with
+Laboratory
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM1296
+Mikhail
+Denissenya
+7E.329
+-
+cap:104
+PHYS 2801L
+Thermodynamics
+and Statistical
+Physics
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM324
+Zhandos
+Utegulov
+7.317 -
+cap:27
+PHYS 2801R
+Thermodynamics
+and Statistical
+Physics
+3.0608-JAN-1919-APR-19R04:30 PM-05:45 PM324
+Zhandos
+Utegulov
+7.527 -
+cap:34
+PHYS 3621L
+Classical
+Electrodynamics II
+3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM1424
+Konstantinos
+Valagiannopoulos
+7.317 -
+cap:27
+PHYS 3621R
+Classical
+Electrodynamics II
+3.0608-JAN-1919-APR-19M03:00 PM-03:50 PM1424
+Konstantinos
+Valagiannopoulos
+7.317 -
+cap:27
+PHYS 3701L
+Optics with
+Laboratory
+4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM1516Azat Abdullayev
+7.317 -
+cap:27
+PHYS 3701Lb
+Optics with
+Laboratory
+4.0808-JAN-1919-APR-19R12:00 PM-01:15 PM1516Azat Abdullayev
+7.154a -
+cap:16
+PHYS 3951LResearch Methods3.0608-JAN-1919-APR-19T R04:30 PM-05:45 PM224Vassilios Kovanis
+7.317 -
+cap:27
+PHYS 4511L
+Quantum Mechanics
+I
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM1624
+Aikaterini
+Mandilara
+7.317 -
+cap:27
+PHYS 4511R
+Quantum Mechanics
+I
+3.0608-JAN-1919-APR-19F12:00 PM-12:50 PM1624
+Aikaterini
+Mandilara
+7.317 -
+cap:27
+PHYS 4631L
+Astrophysics and
+General Relativity
+3.0608-JAN-1919-APR-19M W F01:00 PM-01:50 PM2324
+Daniele
+Malafarina
+7.317 -
+cap:27
+PHYS 4731L
+Introduction to Solid
+State Physics
+3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM324
+Askhat
+Jumabekov
+7.427 -
+cap:26
+PHYS 4731R
+Introduction to Solid
+State Physics
+3.0608-JAN-1919-APR-19W09:00 AM-09:50 AM324
+Askhat
+Jumabekov
+7.427 -
+cap:26
+PHYS 4831L
+Statistical
+Mechanics
+3.0608-JAN-1919-APR-19M W04:30 PM-05:45 PM424
+Thomas
+Oikonomou
+7.527 -
+cap:34
+PHYS 4831R
+Statistical
+Mechanics
+3.0608-JAN-1919-APR-19F01:00 PM-01:50 PM424
+Thomas
+Oikonomou
+7.527 -
+cap:34
+PHYS 4911IS
+Directed Study of
+Advanced Physics
+Topics
+3.0608-JAN-1919-APR-19S12:00 PM-02:50 PM412Vassilios Kovanis
+7.317 -
+cap:27
+
+PHYS 4951SPhysics Colloquium0.0008-JAN-1919-APR-19T R03:00 PM-04:15 PM532Sergiy Bubin
+7.105 -
+cap:80
+PHYS 4991RGraduation Project3.0608-JAN-1919-APR-19S03:00 PM-05:50 PM712Vassilios Kovanis
+7.317 -
+cap:27
+ROBT 2021L
+System Dynamics
+and Modeling
+3.0608-JAN-1919-APR-19M W F09:00 AM-09:50 AM2640Matteo Rubagotti
+7.210 -
+cap:55
+ROBT 2041L
+Electrical and
+Electronic Circuits II
+with Lab
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM2840Ton Do Duc
+7.210 -
+cap:55
+ROBT 2041Lb
+Electrical and
+Electronic Circuits II
+with Lab
+4.0808-JAN-1919-APR-19M12:00 PM-02:50 PM2020Ton Do Duc
+7.321 -
+cap:8
+ROBT 2042Lb
+Electrical and
+Electronic Circuits II
+with Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM820Ton Do Duc
+7.321 -
+cap:8
+ROBT 2061Lb
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM1828
+Anara
+Sandygulova
+7.321 -
+cap:8
+ROBT 2062Lb
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2828
+Anara
+Sandygulova
+7.321 -
+cap:8
+ROBT 2063Lb
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19R12:00 PM-02:50 PM2828
+Almas
+Shintemirov
+7.321 -
+cap:8
+ROBT 2064Lb
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM1628
+Zhanat
+Kappassov
+7.321 -
+cap:8
+ROBT 2065Lb
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19F03:00 PM-05:50 PM2528
+Zhanat
+Kappassov
+7.321 -
+cap:8
+ROBT 2061L
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM4372Tohid Alizadeh
+7E.329
+-
+cap:104
+ROBT 2062L
+Microcontrollers
+with Lab
+4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM7272
+Berdakh
+Abibullaev
+7E.329
+-
+cap:104
+ROBT 3021L
+Mechanical Design
+II with Machining
+Laboratory
+4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM2932
+Mohamad
+Mosadeghzad
+7E.220
+- cap:56
+
+ROBT 3021Lb
+Mechanical Design
+II with Machining
+Laboratory
+4.0808-JAN-1919-APR-19M01:00 PM-02:50 PM1212Iliyas Tursynbek
+7E.230
+- cap:20
+ROBT 3022Lb
+Mechanical Design
+II with Machining
+Laboratory
+4.0808-JAN-1919-APR-19M03:00 PM-04:50 PM912Iliyas Tursynbek
+7E.230
+- cap:20
+ROBT 3023Lb
+Mechanical Design
+II with Machining
+Laboratory
+4.0808-JAN-1919-APR-19W03:00 PM-04:50 PM812Iliyas Tursynbek
+7E.230
+- cap:20
+ROBT 3041L
+Electromechanical
+Systems with lab
+4.0808-JAN-1919-APR-19M W F12:00 PM-12:50 PM2532
+Michele
+Folgheraiter
+7.210 -
+cap:55
+ROBT 3041Lb
+Electromechanical
+Systems with lab
+4.0808-JAN-1919-APR-19T12:00 PM-02:50 PM916Altay Zhakatayev
+7.321 -
+cap:8
+ROBT 3042Lb
+Electromechanical
+Systems with lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM1616Altay Zhakatayev
+7.321 -
+cap:8
+ROBT 3101LImage Processing3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM3232
+Muhammed
+Demirci
+7.322 -
+cap:37
+ROBT 4021L
+Robotic/Mechatronic
+System Design
+3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM1616Tohid Alizadeh
+7E.230
+- cap:20
+ROBT 4022L
+Robotic/Mechatronic
+System Design
+3.0608-JAN-1919-APR-19T R01:30 PM-02:45 PM516
+Mohamad
+Mosadeghzad
+7E.230
+- cap:20
+ROBT 4071L
+Statistical Methods
+and Machine
+Learning
+3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM2632
+Berdakh
+Abibullaev
+7.322 -
+cap:37
+ROBT 4141L
+Human-Robot
+Interaction
+3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM1832
+Anara
+Sandygulova
+7.322 -
+cap:37
+ROBT 4911LGraduation Project3.0608-JAN-1919-APR-19F03:00 PM-05:50 PM2632Matteo Rubagotti
+7.322 -
+cap:37
+If you have any questions regarding the schedule and course registration please contact Office of the Registrar
+registrar@nu.edu.kz

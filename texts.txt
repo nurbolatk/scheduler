@@ -1,0 +1,24 @@
+BIOL 3411LBiochemistry I3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM9696Timo Burster
+7E.529
+-
+cap:104
+
+BIOL 3014Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM924
+Aigerim
+Soltabayeva
+7.407 -
+cap:20
+
+BIOL 3702LGenetics3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM3636
+Gonzalo Hap
+Hortelano
+7.246 -
+cap:55
+
+BIOL 450 L1 Lb
+CHEM 102L 5ChLb
+CHEM 212L 2ChLb
+CHEM 212 1L Orga

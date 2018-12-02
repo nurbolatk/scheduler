@@ -1,0 +1,296 @@
+School of Science and Technology, Undergraduate, Spring 2019
+2018-11-18 22:17:28
+Course AbbrS/TCourse TitleCr(US)Cr(ECTS)
+Start
+Date
+End DateDaysTimeEnrCapFacultyRoom
+BIOL 1012L
+Biology for
+non-Science majors
+3.0608-JAN-1919-APR-19M W F04:00 PM-04:50 PM4848
+Zhanat
+Muminova
+7.105 -
+cap:80
+BIOL 1011L
+Biology for
+non-Science majors
+3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM4848
+Anara
+Zhumadilova
+7E.529
+-
+cap:104
+BIOL 1101BLb
+Modern Biology I
+with Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM024
+Ferdinand
+Molnar
+9.228 -
+cap:40
+BIOL 1101L
+Modern Biology I
+with Lab
+4.0808-JAN-1919-APR-19T R12:00 PM-01:15 PM024
+Ferdinand
+Molnar
+7.427 -
+cap:26
+BIOL 1201BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19M12:00 PM-02:50 PM1924
+Zhalgas
+Serimbetov
+9.228 -
+cap:40
+BIOL 1203BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM2424
+Zarina
+Sautbayeva
+9.228 -
+cap:40
+BIOL 1204BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424
+Zarina
+Sautbayeva
+9.228 -
+cap:40
+BIOL 1205BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM1924
+Zhalgas
+Serimbetov
+9.228 -
+cap:40
+BIOL 1202BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424
+Zhalgas
+Serimbetov
+7.407 -
+cap:20
+BIOL 1201L
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM7272Anna Andreeva
+7E.329
+-
+cap:104
+BIOL 1202L
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19T R04:30 PM-05:45 PM3872Anna Andreeva
+7E.429
+-
+cap:104
+BIOL 2311BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM2424Tursonjan Tokay
+7E.217
+- cap:24
+BIOL 2312BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM2424TBA TBA
+7E.217
+- cap:24
+BIOL 2313BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19W03:00 PM-05:50 PM2424Tursonjan Tokay
+7E.217
+- cap:24
+
+BIOL 2314BLb
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19F12:00 PM-02:50 PM2424TBA TBA
+7E.217
+- cap:24
+BIOL 2311L
+Human Anatomy and
+Physiology II
+4.0808-JAN-1919-APR-19M W F10:00 AM-10:50 AM9696Tursonjan Tokay
+7E.529
+-
+cap:104
+BIOL 3013Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM1524
+Assem
+Duisembekova
+9.228 -
+cap:40
+BIOL 3011L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R09:00 AM-10:15 AM2424
+Gonzalo Hap
+Hortelano
+7.507 -
+cap:60
+BIOL 3012L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R10:30 AM-11:45 AM2424
+Gonzalo Hap
+Hortelano
+7.507 -
+cap:60
+BIOL 3013L
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T R12:00 PM-01:15 PM2424
+Jeanette Kunz
+Halder
+7.507 -
+cap:60
+BIOL 3011Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19M03:00 PM-05:50 PM2424
+Assem
+Duisembekova
+7.407 -
+cap:20
+BIOL 3012Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19T03:00 PM-05:50 PM2424
+Aigerim
+Soltabayeva
+7.407 -
+cap:20
+BIOL 3014Lb
+Molecular Biology of
+Cell with Lab
+4.0808-JAN-1919-APR-19R03:00 PM-05:50 PM924
+Aigerim
+Soltabayeva
+7.407 -
+cap:20
+BIOL 3411LBiochemistry I3.0608-JAN-1919-APR-19T R09:00 AM-10:15 AM9696Timo Burster
+7E.529
+-
+cap:104
+BIOL 3411RBiochemistry I3.0608-JAN-1919-APR-19F03:00 PM-03:50 PM9696Timo Burster
+7E.529
+-
+cap:104
+BIOL 341L1LbBiochemistry I Lab1.0208-JAN-1919-APR-19W12:00 PM-02:50 PM2424yingqiu Xie
+7.407 -
+cap:20
+BIOL 3702LGenetics3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM3636
+Gonzalo Hap
+Hortelano
+7.246 -
+cap:55
+BIOL 3701LGenetics3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM3636yingqiu Xie
+7E.529
+-
+cap:104
+BIOL 4201LBioethics3.0608-JAN-1919-APR-19T R04:30 PM-05:45 PM9396
+TBA TBA, Anara
+Zhumadilova
+7E.529
+-
+cap:104
+
+BIOL 4301L
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19T R01:30 PM-02:45 PM4648
+Zhanat
+Muminova
+7.105 -
+cap:80
+BIOL 4301Lb
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19M01:00 PM-02:50 PM2224
+Zhanat
+Muminova
+7E.217
+- cap:24
+BIOL 4302Lb
+Histology with
+laboratory
+4.0808-JAN-1919-APR-19W01:00 PM-02:50 PM2424
+Zhanat
+Muminova
+7E.217
+- cap:24
+BIOL 4401LNeuroscience3.0608-JAN-1919-APR-19M W F02:00 PM-02:50 PM1648Olena Filchakova
+7.507 -
+cap:60
+BIOL 4501LFood Microbiology3.0608-JAN-1919-APR-19T R12:00 PM-01:15 PM4848Damira Kanayeva
+7.105 -
+cap:80
+BIOL 450L1Lb
+Food Microbiology
+Lab
+1.0208-JAN-1919-APR-19W01:00 PM-03:50 PM1320
+Damira Kanayeva,
+Assem
+Duisembekova
+7.410 -
+cap:15
+BIOL 4561S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F10:00 AM-10:50 AM2424
+Jeanette Kunz
+Halder
+7E.229
+- cap:24
+BIOL 4562S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F11:00 AM-11:50 AM1024Otilia Nuta
+7E.229
+- cap:24
+BIOL 4563S
+Biology Research
+Design
+3.0608-JAN-1919-APR-19M W F12:00 PM-12:50 PM2124Otilia Nuta
+7E.229
+- cap:24
+BIOL 4711L
+Light and Electron
+microscopy concepts
+and techniques
+3.0608-JAN-1919-APR-19T R10:30 AM-11:45 AM1524Ivan Vorobyev
+7.527 -
+cap:34
+BIOL 471L1Lb
+Light and Electron
+Microscopy
+Concepts and
+Techniques-Lab
+1.0208-JAN-1919-APR-19R03:00 PM-05:50 PM512
+Zarina
+Sautbayeva
+7.318 -
+cap:2
+BIOL 4801L
+Molecular
+Immunology
+3.0608-JAN-1919-APR-19T R03:00 PM-04:15 PM2148Timo Burster
+7.210 -
+cap:55
+BIOL 4911RGraduation Project 24.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM016
+Zhanat
+Muminova,
+yingqiu Xie
+7.527 -
+cap:34
