@@ -1,6 +1,11 @@
-School of Science and Technology, Undergraduate, Spring 2019
-2018-11-18 22:17:28
-Course AbbrS/TCourse TitleCr(US)Cr(ECTS)
+BIOL 1203BLb
+Modern Biology II
+with Lab
+4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM2424
+Zarina
+Sautbayeva
+9.228 -
+cap:40CTS)
 Start
 Date
 End DateDaysTimeEnrCapFacultyRoom
