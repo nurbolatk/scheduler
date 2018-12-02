@@ -35,8 +35,12 @@ class Place extends Component {
         courses.forEach(course => {
           let x = course.startTimeH - 9
           let y = course.endTimeH - 9
-          let mx = course.startTimeM / 15
-          let my = course.endTimeM / 15
+          let startM = course.startTimeM
+          let endM = course.endTimeM
+          if(course.startTimeM == 50)  startM = 60
+          if(course.endTimeM == 50)  endM = 60
+          let mx = startM / 15
+          let my = endM / 15
           let startPlaceIndex = x * 4 + mx
           let endPlaceIndex = y * 4 + my
           console.log(startPlaceIndex, endPlaceIndex)

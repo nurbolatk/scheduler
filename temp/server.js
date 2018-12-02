@@ -15,7 +15,7 @@ const db = require('./config/keys').mongoURI
 mongoose
     .connect(db)
     .then(() => console.log('MongoDB connected'))
-    .catch(err => console.log(err))
+    .catch(err => console.log('error connecting mongodb', err))
 
 app.get('/', (req, res) => res.send('Hello World!'))
 

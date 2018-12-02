@@ -22,6 +22,11 @@
   margin: 0;
 }
 
+.condensed {
+  font-family: 'Roboto Condensed';
+  line-height: normal;
+}
+
 .coloredd {
   padding: 5px;
   color: white;
