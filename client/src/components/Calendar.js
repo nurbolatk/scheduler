@@ -41,27 +41,26 @@ class Calendar extends Component {
     return (
       // {/* <div className="container"> */}
         <div className="row ml-4 mr-4">
-          <div className="col-sm-4">
-            <div className="card">
+          <div className="col-sm-3">
+            <div className="card h-100">
               <div className="card-body">
-                <h5 className="card-title">Special title treatment</h5>
-                <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" onClick={this.addCourse} className="btn btn-primary">Go somewhere</a>
+                <h5 className="card-title">Choose courses</h5>
+                <button onClick={this.addCourse} className="btn btn-primary">Add Course</button>
               </div>
             </div>
           </div>
-          <div className="col-sm-8">
+          <div className="col-sm-9">
             <div className="card">
               <div className="card-body">
                 <div className="row">
-                  <div className="col bg-test1">Time</div>
+                  <div className="ml-3 mr-2 bg-test1">Time</div>
                   <div className="col bg-test1">Mon</div>
                   <div className="col bg-test1">Wed</div>
                   <div className="col bg-test1">Tue</div>
                   <div className="col bg-test1">Thu</div>
                   <div className="col bg-test1">Fri</div>
                 </div>
-                <div className="row">
+                <div className="row mt-2">
                   <Place time={true}/>
                   <Place  courses={this.state.coursesM}/>
                   <Place />

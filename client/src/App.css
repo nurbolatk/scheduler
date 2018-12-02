@@ -1,9 +1,9 @@
 .bg-test1 {
   text-align: center;
-  background-color: bisque;
 }
 
 .place-row {
+  border-right: 1px solid #d6d6d6;
   height: 15px;
 }
 /* .place-row:nth-child(even) {background: #CCC}
@@ -17,15 +17,17 @@
 .time-line:nth-child(odd) {background: bisque} */
 
 .place {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 0;
   margin: 0;
 }
 
 .coloredd {
+  padding: 4px;
+  color: white;
   background-color: blueviolet;
 }
 
 .cbordered {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #d6d6d6;
 }

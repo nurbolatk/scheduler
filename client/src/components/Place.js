@@ -12,7 +12,7 @@ class Place extends Component {
     
     if(time){
       let place = []
-      place.push(<div className="place-row" key={888}></div>)
+      place.push(<div style={{height: '15px'}} key={888}></div>)
       let j = 1
       for(let i = 1; i < this.state.numberOfRows; i+=2){
         if(i === this.state.numberOfRows-1) break
@@ -85,11 +85,18 @@ class Place extends Component {
   }
 
   render() {
-    
+    let column = null;
+    if(this.props.time){
+      column = <div className="d-flex-row place ml-3 mr-2">
+                {this.createPlace()}
+              </div>
+    } else {
+      column = <div className="d-flex-row place col">
+                {this.createPlace()}
+              </div>
+    }
     return (
-      <div className="d-flex-row place flex-fill col-sm-2">
-        {this.createPlace()}
-      </div>
+      column
     )
   }
 }

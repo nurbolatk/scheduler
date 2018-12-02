@@ -1,11 +1,9 @@
-BIOL 1203BLb
-Modern Biology II
-with Lab
-4.0808-JAN-1919-APR-19W12:00 PM-02:50 PM2424
-Zarina
-Sautbayeva
-9.228 -
-cap:40CTS)
+BIOL 4911RGraduation Project 24.0808-JAN-1919-APR-19T R03:00 PM-04:15 PM016
+Zhanat
+Muminova,
+yingqiu Xie
+7.527 -
+cap:34S)
 Start
 Date
 End DateDaysTimeEnrCapFacultyRoom
